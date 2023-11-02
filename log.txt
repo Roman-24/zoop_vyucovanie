@@ -1,0 +1,26 @@
+2023-10-10 23:41:28 - This is a log message.
+2023-10-10 23:41:28 - Another log message.
+2023-10-10 23:43:58 - This is a log message.
+2023-10-10 23:43:58 - Another log message.
+2023-10-10 23:43:58 - Ahoj, ja som basnik..
+
+
+
+2023-10-11 12:30:24 - This is a log message.
+2023-10-11 12:30:24 - Another log message.
+2023-10-11 12:30:24 - Ahoj, ja som basnik..
+2023-10-25 12:31:11 - This is a log message.
+2023-10-25 12:31:11 - Another log message.
+2023-10-25 12:31:11 - Ahoj, ja som basnik..
+2023-11-02 22:54:56 - This is a log message.
+2023-11-02 22:54:56 - Another log message.
+2023-11-02 22:54:56 - Ahoj, ja som basnik..
+2023-11-02 22:55:04 - This is a log message.
+2023-11-02 22:55:04 - Another log message.
+2023-11-02 22:55:04 - Ahoj, ja som basnik..
+2023-11-02 22:55:17 - This is a log message.
+2023-11-02 22:55:17 - Another log message.
+2023-11-02 22:55:17 - Ahoj, ja som basnik..
+2023-11-02 22:55:41 - This is a log message.
+2023-11-02 22:55:41 - Another log message.
+2023-11-02 22:55:41 - Ahoj, ja som basnik..
